@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GithubUrl</key>
+	<string>https://api.github.com/repos/[owner]/[repo]/stargazers</string>
+	<key>Owner</key>
+	<string>octocat</string>
+	<key>Repo</key>
+	<string>hello-world</string>
+	<key>AuthToken</key>
+	<string></string>
+	<key>LoadAll</key>
+	<false/>
+	<key>LoadDelay</key>
+	<string>0</string>
+	<key>LoadAvatarDelay</key>
+	<string>0</string>
+	<key>SpinnerDelay</key>
+	<string>2</string>
+</dict>
+</plist>
