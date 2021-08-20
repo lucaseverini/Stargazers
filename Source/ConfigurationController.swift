@@ -23,7 +23,7 @@ class ConfigurationController: UIViewController, UITextViewDelegate, UITextField
     @IBOutlet weak var spinnerDelayEdit: UITextField!
     @IBOutlet weak var paginationSwitch: UISwitch!
 
-    let checkIfConfigurationChanged = false
+    let checkIfConfigurationChanged = false 
 
     var semaphore: DispatchSemaphore!
     var response: Int = 0
