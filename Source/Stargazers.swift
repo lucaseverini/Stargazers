@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 class Stargazer: CustomStringConvertible // Or use NSObject
 {
     let name: String!
