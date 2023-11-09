@@ -6,6 +6,7 @@
 //  lucaseverini@mac.com
 //
 
+
 import UIKit
 
 class Stargazer: CustomStringConvertible // Or use NSObject
